@@ -1,0 +1,13 @@
+.red-on-hover:hover{
+    background-color: red;
+    cursor: pointer;
+    user-select: none;
+}
+
+.mission-statement-form {
+    display: none;
+}
+
+.lunch-room-form {
+    display: none;
+}
